@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 易例
-#+DATE: 2015-09-23 09:35:44
-#+PROPERTY: JUAN 1
+#+DATE: 2015-08-24 22:00:50.418071
+#+PROPERTY: ID KR1a0157
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷上
 <pb:KR1a0157_WYG_001-1a>¶
 欽定四庫全書¶
 　易例卷上¶
@@ -722,4 +724,3 @@
 言乾成於巽既成轉舍於離坤萬物皆盛大從離出與¶
 乾相遇故言天地遇也¶
 　家君曰乾一世外卦四世内卦皆巽也故言乾成于¶
-
